@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventCounter", "EventCounter\EventCounter.csproj", "{3AE1BA19-BBDC-4F91-A41D-E60A7972BEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE1BA19-BBDC-4F91-A41D-E60A7972BEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE1BA19-BBDC-4F91-A41D-E60A7972BEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE1BA19-BBDC-4F91-A41D-E60A7972BEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE1BA19-BBDC-4F91-A41D-E60A7972BEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD0489D-7E7E-45ED-BC74-665904DD6542}
+	EndGlobalSection
+EndGlobal
